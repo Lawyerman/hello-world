@@ -3,10 +3,7 @@
 
 ### well, you know, I am just a superhero
 
-*a
-*b
-*c
-*.
-*x
-*y
-*z
+* a
+* b
+* c
+
